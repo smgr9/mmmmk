@@ -1,0 +1,237 @@
+﻿body {
+    padding-top: 40px;
+background-color: #000;
+}
+/* Start Nav*/
+.uu li {
+ float: right;
+ text-align: center;
+
+ }
+
+
+
+.scrolled {
+ 
+ background-color:rgba(0,0,0,0.7);
+ border-bottom-color: rgba(0,0,0,0.1)
+}
+
+.footer{
+    background-color: #000;
+    color:#EEE;
+    padding: 20px;
+    font-size: 18px;
+        margin: 7px -30px 0 -112px;
+}
+
+.f{
+margin: 0 0 0 0 ;
+
+}
+/* END Nav*/
+
+
+    
+    #hhw{
+     
+         color: fff;
+    font-family: 'Rakkas', cursive; 
+    font-size: 31px;
+    }
+    
+    .uu{
+     
+     font-family: 'Cairo', sans-serif;
+     font-size: 20;
+    }
+    
+    /* index start */
+
+.pro-box{
+
+    background-color:rgba(254, 254, 254, 0.60);
+    border-radius: 10px;
+    text-align: center;
+    margin:200 0 0 72px;
+    width: auto;
+
+    
+}
+
+.bro-box{
+    
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 10px;
+    text-align: center;
+    margin:120px 0 0 112px;
+    width: auto;
+    height: 335px;
+    padding-top: 10px;
+        
+    }
+
+    .header h1,.header p {
+        color:#000;
+        font-family: Lalezar;
+        
+    }
+
+    .header .btn {
+        width: 300px;
+        font-family: Lemonada;
+    }
+    .header {
+
+        background:url('../img/header.jpg')no-repeat top center ;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        height: 83vh;
+        position: relative;
+
+    }
+
+    .header .overlay {
+     position: absolute;
+     width: 100%;
+     height: 100%;
+     left: 0;
+     top: 0;   
+     background-color: rgba(0,0,0,0.4)
+    }
+
+    /*index end */
+  
+
+    /* s zm */
+.z00-box {
+
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 10px;
+    text-align: center;
+        margin: 56px 0 0 254px;
+    width: auto;
+    height: 335px;
+    padding-top: 10px;
+
+}
+
+.box0{
+    
+           height: 6%;
+       width: 593px;
+       background-color: rgba(0,0,0,0.5);
+       border-radius: 9px;
+       margin: 30px 0 -45px 27%;
+   }
+
+
+   .box00{
+
+background-color: rgba(0,0,0,0.7);
+      width: 600px;
+    margin: 29px 0 0 355px;
+    height: 50px;
+    padding: 8px 0 0 0;
+    border-radius: 28px;
+   }
+
+   .cre{
+    width: 169px;
+    height: 89px;
+    border-radius: 47px;
+    background-color: #ff0000c4;
+    margin: -31px 0 0 -4px;
+    border: 1.7px solid rgba(255, 255, 255, 0.82);
+}
+
+
+
+ .btn-ad{
+margin: 0 0 0 -14px;
+font-family:'Rakkas', cursive ;
+}
+
+
+.pdf-a{
+width: 88px;
+}
+.ll{ width : 88px;}
+
+.cc {margin: 28px 0 0 24px;
+    font-size: 22px;}
+.gg{ width : 95px;
+font-size: 14;
+text-align:center;}
+    /* e zm */
+
+
+
+
+.ddsa {margin:101px 0 0 15px;
+font-family: Changa;
+
+}   
+
+
+
+.goal-q{margin:31px 0 0 74px; 
+
+
+
+}
+
+
+.oo{display:none;}
+.kk{display:none;}
+
+.panal  {
+ font-size:20px ;
+font-family: Katibeh;
+text-align: center;
+
+}
+
+.wiet{
+     margin: 0 0 0 12px;
+    width: 1150;
+}
+
+.panel-footer{
+ 
+ padding: 0 0 0 0;
+}
+.zoo-box{
+ 
+    width: 631px;
+    height: auto;
+    margin: 0 0 0 343px;
+}
+
+/*  end */
+
+
+
+/*  lessons*/
+
+.paddingg{ padding-bottom: 20px}
+
+
+
+.lesson-box1{
+ 
+ padding-top: 4px;
+ 
+ height: auto;
+    width: 500;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 10%;
+    margin: 1% 0 0px 25%;}
+    
+    
+    .mmmm{
+     
+     padding-bottom: 16px
+    }
